@@ -37,20 +37,20 @@
 		4EDCDCEA158E85BC007C2403 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4EDCDCEC158E85BC007C2403 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4EDCDCEE158E85BC007C2403 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		4EDCDCF2158E85BC007C2403 /* XcodeGithub-Info.plist */ = {isa = PBXFileReference; path = "XcodeGithub-Info.plist"; sourceTree = "<group>"; };
+		4EDCDCF2158E85BC007C2403 /* XcodeGithub-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "XcodeGithub-Info.plist"; sourceTree = "<group>"; };
 		4EDCDCF4158E85BC007C2403 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4EDCDCF6158E85BC007C2403 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4EDCDCF8158E85BC007C2403 /* XcodeGithub-Prefix.pch */ = {isa = PBXFileReference; path = "XcodeGithub-Prefix.pch"; sourceTree = "<group>"; };
-		4EDCDCF9158E85BC007C2403 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		4EDCDCF8158E85BC007C2403 /* XcodeGithub-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "XcodeGithub-Prefix.pch"; sourceTree = "<group>"; };
+		4EDCDCF9158E85BC007C2403 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4EDCDCFA158E85BC007C2403 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		4EDCDCFD158E85BC007C2403 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		4EDCDCFF158E85BC007C2403 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		4EDCDCFF158E85BC007C2403 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		4EDCDD00158E85BC007C2403 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		4EDCDD07158E85BD007C2403 /* XcodeGithubTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XcodeGithubTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EDCDD08158E85BD007C2403 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		4EDCDD10158E85BD007C2403 /* XcodeGithubTests-Info.plist */ = {isa = PBXFileReference; path = "XcodeGithubTests-Info.plist"; sourceTree = "<group>"; };
+		4EDCDD10158E85BD007C2403 /* XcodeGithubTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "XcodeGithubTests-Info.plist"; sourceTree = "<group>"; };
 		4EDCDD12158E85BD007C2403 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		4EDCDD14158E85BD007C2403 /* XcodeGithubTests.h */ = {isa = PBXFileReference; path = XcodeGithubTests.h; sourceTree = "<group>"; };
+		4EDCDD14158E85BD007C2403 /* XcodeGithubTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XcodeGithubTests.h; sourceTree = "<group>"; };
 		4EDCDD15158E85BD007C2403 /* XcodeGithubTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XcodeGithubTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
