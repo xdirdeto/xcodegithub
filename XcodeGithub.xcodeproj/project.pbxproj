@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E117EF8158E883D00E49C44 /* Build002Cell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E117EF7158E883D00E49C44 /* Build002Cell.m */; };
 		4EDCDCEB158E85BC007C2403 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4EDCDCEA158E85BC007C2403 /* UIKit.framework */; };
 		4EDCDCED158E85BC007C2403 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4EDCDCEC158E85BC007C2403 /* Foundation.framework */; };
 		4EDCDCEF158E85BC007C2403 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4EDCDCEE158E85BC007C2403 /* CoreGraphics.framework */; };
@@ -34,6 +35,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4E117EF6158E883D00E49C44 /* Build002Cell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Build002Cell.h; sourceTree = "<group>"; };
+		4E117EF7158E883D00E49C44 /* Build002Cell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Build002Cell.m; sourceTree = "<group>"; };
 		4EDCDCE6158E85BC007C2403 /* XcodeGithub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XcodeGithub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EDCDCEA158E85BC007C2403 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4EDCDCEC158E85BC007C2403 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -120,6 +123,8 @@
 				4EDCDD00158E85BC007C2403 /* ViewController.m */,
 				4EDCDCF1158E85BC007C2403 /* Supporting Files */,
 				4EDCDD1F158E86E0007C2403 /* myView.xib */,
+				4E117EF6158E883D00E49C44 /* Build002Cell.h */,
+				4E117EF7158E883D00E49C44 /* Build002Cell.m */,
 			);
 			path = XcodeGithub;
 			sourceTree = "<group>";
@@ -264,6 +269,7 @@
 				4EDCDCF7158E85BC007C2403 /* main.m in Sources */,
 				4EDCDCFB158E85BC007C2403 /* AppDelegate.m in Sources */,
 				4EDCDD01158E85BC007C2403 /* ViewController.m in Sources */,
+				4E117EF8158E883D00E49C44 /* Build002Cell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,6 +439,7 @@
 				4EDCDD1B158E85BD007C2403 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4EDCDD1C158E85BD007C2403 /* Build configuration list for PBXNativeTarget "XcodeGithubTests" */ = {
 			isa = XCConfigurationList;
@@ -441,6 +448,7 @@
 				4EDCDD1E158E85BD007C2403 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
