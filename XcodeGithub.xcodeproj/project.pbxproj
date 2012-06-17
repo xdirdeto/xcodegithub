@@ -20,6 +20,7 @@
 		4EDCDD0B158E85BD007C2403 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4EDCDCEC158E85BC007C2403 /* Foundation.framework */; };
 		4EDCDD13158E85BD007C2403 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4EDCDD11158E85BD007C2403 /* InfoPlist.strings */; };
 		4EDCDD16158E85BD007C2403 /* XcodeGithubTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EDCDD15158E85BD007C2403 /* XcodeGithubTests.m */; };
+		4EDCDD20158E86E0007C2403 /* myView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4EDCDD1F158E86E0007C2403 /* myView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		4EDCDD12158E85BD007C2403 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4EDCDD14158E85BD007C2403 /* XcodeGithubTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XcodeGithubTests.h; sourceTree = "<group>"; };
 		4EDCDD15158E85BD007C2403 /* XcodeGithubTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XcodeGithubTests.m; sourceTree = "<group>"; };
+		4EDCDD1F158E86E0007C2403 /* myView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = myView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				4EDCDCFF158E85BC007C2403 /* ViewController.h */,
 				4EDCDD00158E85BC007C2403 /* ViewController.m */,
 				4EDCDCF1158E85BC007C2403 /* Supporting Files */,
+				4EDCDD1F158E86E0007C2403 /* myView.xib */,
 			);
 			path = XcodeGithub;
 			sourceTree = "<group>";
@@ -223,6 +226,7 @@
 			files = (
 				4EDCDCF5158E85BC007C2403 /* InfoPlist.strings in Resources */,
 				4EDCDCFE158E85BC007C2403 /* MainStoryboard.storyboard in Resources */,
+				4EDCDD20158E86E0007C2403 /* myView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
